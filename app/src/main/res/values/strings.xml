@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">COMP5405</string>
     <string name="action_settings">Settings</string>
+    <string name="app_description">Project for COMP5405 Digital Media Computing</string>
+    <string name="app_author_1">Umac Deivas</string>
+    <string name="app_author_2">Sherly Manggala</string>
 </resources>
